@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PHP, Laravel**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Vue Js**
 
 - 👯 I’m looking to collaborate on **Github**
 
