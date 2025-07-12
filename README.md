@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/full-stack-development.gif" alt="MasterHead" style="width: 100% !important; max-width: 100%;">
 </div>
 <h1 align="center">Hi 👋, I'm Al Sakib</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">I specialize in backend development, particularly with PHP and Laravel, but I also enjoy building responsive and interactive frontends using HTML, CSS, Bootstrap, and JavaScript. With a strong foundation in MySQL, I’m focused on creating efficient, scalable, and secure web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsakib748&label=Profile%20views&color=0e75b6&style=flat" alt="alsakib748" /> </p>
