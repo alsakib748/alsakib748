@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning and working on **Vue Js**
 
 - 👯 I’m looking to collaborate on **Laravel Applications**
 
