@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1TBIQbg_2WFzbsG-P-fzfOWy1uWHKpegP?usp=sharing](https://drive.google.com/drive/folders/1TBIQbg_2WFzbsG-P-fzfOWy1uWHKpegP?usp=sharing)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I love coding and problem solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
