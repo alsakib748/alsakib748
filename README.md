@@ -44,136 +44,147 @@ I'm a **Junior Full-Stack Developer** passionate about building scalable, secure
 
 ## 🛠️ Tech Stack
 
+### **Core Technologies**
+
+<div align="center">
+
+| **Backend** | **Frontend** | **Database** | **Styling** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="60" height="60"/><br/>**Laravel** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="60" height="60"/><br/>**Vue.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/><br/>**MySQL** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="60" height="60"/><br/>**Tailwind** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/><br/>**PHP** | <img src="https://hexmos.com/freedevtools/svg_icons/inertiajs/inertiajs-plain.svg" alt="Inertia" width="60" height="60"/><br/>**Inertia.js** | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="60" height="60"/><br/>**PostgreSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/><br/>**Bootstrap** |
+
+</div>
+
+### **Tools & Languages**
+
+<div align="center">
+
+| **DevTools** | **Version Control** | **APIs & Testing** | **Other Languages** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/><br/>**Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/><br/>**GitHub** | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/><br/>**Postman** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/><br/>**C** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-icon.svg" alt="Figma" width="50" height="50"/><br/>**Figma** | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/><br/>**Docker** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><br/>**JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/><br/>**C++** |
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### **1️⃣ Vue Drive - Google Drive Clone**
+
+<div align="center">
+  <a href="https://github.com/alsakib748/Google-Drive-Laravel-Vue">
+    <img src="https://img.shields.io/badge/GitHub-Repository-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://drive.thealsakib.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-drive.thealsakib.com-0ea5e9?style=for-the-badge&logo=firefox" alt="Live Demo">
+  </a>
+</div>
+
+**A full-featured cloud file management system with real-time collaboration**
+
 <table>
   <tr>
-    <td align="center" width="25%">
-      <h4>🔧 Backend</h4>
-      <p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50" height="50" title="Laravel"/><br/>
-        <strong>Laravel</strong>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" title="PHP"/><br/>
-        <strong>PHP</strong>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" title="MySQL"/><br/>
-        <strong>MySQL</strong>
-      </p>
-    </td>
-    <td align="center" width="25%">
-      <h4>⚛️ Frontend</h4>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50" title="Vue.js"/><br/>
-        <strong>Vue.js</strong>
-      </p>
-      <p>
-        <img src="https://hexmos.com/freedevtools/svg_icons/inertiajs/inertiajs-plain.svg" alt="Inertia.js" width="50" height="50" title="Inertia.js"/><br/>
-        <strong>Inertia.js</strong>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/><br/>
-        <strong>JavaScript</strong>
-      </p>
-    </td>
-    <td align="center" width="25%">
-      <h4>🎨 Styling</h4>
-      <p>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/><br/>
-        <strong>Tailwind CSS</strong>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/><br/>
-        <strong>Bootstrap</strong>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" title="CSS3"/><br/>
-        <strong>CSS3</strong>
-      </p>
-    </td>
-    <td align="center" width="25%">
-      <h4>🛠️ Tools</h4>
-      <p>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" title="Git"/><br/>
-        <strong>Git</strong>
-      </p>
-      <p>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" title="Postman"/><br/>
-        <strong>Postman</strong>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-icon.svg" alt="Figma" width="50" height="50" title="Figma"/><br/>
-        <strong>Figma</strong>
-      </p>
-    </td>
+    <td><strong>🔧 Backend</strong></td>
+    <td>Laravel 10, PHP 8+, MySQL</td>
   </tr>
   <tr>
-    <td align="center" colspan="4" style="padding-top: 20px;">
-      <h4>📚 Other Languages</h4>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
-      </p>
+    <td><strong>⚛️ Frontend</strong></td>
+    <td>Vue 3, Inertia.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Services</strong></td>
+    <td>AWS S3, Laravel Queues, Docker</td>
+  </tr>
+  <tr>
+    <td><strong>📦 Key Features</strong></td>
+    <td>
+      ✅ Real-time file management<br/>
+      ✅ Drag-and-drop file upload<br/>
+      ✅ Cloud storage with AWS S3<br/>
+      ✅ File sharing & permissions<br/>
+      ✅ Queue-based background jobs<br/>
+      ✅ Responsive & modern UI
     </td>
   </tr>
 </table>
 
 ---
 
-## 📂 Featured Projects
+### **2️⃣ Inventory Management System**
 
 <div align="center">
+  <a href="https://github.com/alsakib748/inventory-management">
+    <img src="https://img.shields.io/badge/GitHub-Repository-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
-### **Vue Drive - Google Drive Clone**
+**A comprehensive inventory management platform for business operations**
 
-<a href="https://github.com/alsakib748/Google-Drive-Laravel-Vue">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repository-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-**A full-featured file management application with cloud storage capabilities**
-
-| Stack |  |
-|-------|---|
-| **Backend** | Laravel 10, PHP |
-| **Frontend** | Vue 3, Inertia.js, Tailwind CSS |
-| **Database** | MySQL |
-| **Services** | AWS S3, Docker/Sail |
-
-✨ **Highlights:**
-- Real-time file management with drag-and-drop
-- Cloud storage integration with AWS S3
-- Queue-based background job processing
-- Responsive & modern UI
+<table>
+  <tr>
+    <td><strong>🔧 Backend</strong></td>
+    <td>Laravel, PHP, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>⚛️ Frontend</strong></td>
+    <td>Vue.js, Inertia.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>📦 Key Features</strong></td>
+    <td>
+      ✅ Product inventory tracking<br/>
+      ✅ Stock level monitoring<br/>
+      ✅ Supplier management<br/>
+      ✅ Order processing system<br/>
+      ✅ Real-time dashboards<br/>
+      ✅ Advanced reporting & analytics
+    </td>
+  </tr>
+</table>
 
 ---
 
-### **Laravel Vue E-Commerce**
+### **3️⃣ Laravel Vue E-Commerce**
 
-<a href="https://github.com/alsakib748/Laravel-Vue-Ecommerce">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repository-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://vueshop.thealsakib.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-vueshop.thealsakib.com-0ea5e9?style=for-the-badge" alt="Live Site">
-</a>
-
-**A complete e-commerce platform showcasing modern web development practices**
-
-| Stack |  |
-|-------|---|
-| **Backend** | Laravel, PHP |
-| **Frontend** | Vue.js, Inertia.js, Tailwind CSS |
-| **Database** | MySQL |
-| **Features** | E-commerce, Admin Dashboard |
-
-✨ **Highlights:**
-- Product catalog with advanced filtering & search
-- Shopping cart with persistent storage
-- Complete checkout system
-- Admin dashboard for product management
-- Order tracking & management
-
+<div align="center">
+  <a href="https://github.com/alsakib748/Laravel-Vue-Ecommerce">
+    <img src="https://img.shields.io/badge/GitHub-Repository-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://vueshop.thealsakib.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-vueshop.thealsakib.com-0ea5e9?style=for-the-badge&logo=firefox" alt="Live Demo">
+  </a>
 </div>
+
+**A complete e-commerce platform with modern shopping experience**
+
+<table>
+  <tr>
+    <td><strong>🔧 Backend</strong></td>
+    <td>Laravel, PHP, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>⚛️ Frontend</strong></td>
+    <td>Vue.js, Inertia.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>💳 Payments</strong></td>
+    <td>Stripe Integration, Payment Gateway</td>
+  </tr>
+  <tr>
+    <td><strong>📦 Key Features</strong></td>
+    <td>
+      ✅ Product catalog with filtering<br/>
+      ✅ Advanced search functionality<br/>
+      ✅ Shopping cart & checkout system<br/>
+      ✅ User authentication & profiles<br/>
+      ✅ Order management & tracking<br/>
+      ✅ Admin dashboard<br/>
+      ✅ Payment processing<br/>
+      ✅ Responsive design
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -235,7 +246,7 @@ I'm a **Junior Full-Stack Developer** passionate about building scalable, secure
         <a href="https://portfolio.thealsakib.com">portfolio.thealsakib.com</a>
       </td>
       <td align="center">
-        <strong>📚 Experiences</strong><br/>
+        <strong>📚 Resume</strong><br/>
         <a href="https://drive.google.com/drive/folders/1TBIQbg_2WFzbsG-P-fzfOWy1uWHKpegP?usp=sharing">Google Drive</a>
       </td>
     </tr>
