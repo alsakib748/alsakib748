@@ -2,7 +2,17 @@
   <img src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/full-stack-development.gif" alt="MasterHead" style="width: 100% !important; max-width: 100%;">
 </div>
 <h1 align="center">Hi 👋, I'm Al Sakib</h1>
-<h3 align="center">I specialize in backend development, particularly with PHP, Laravel and Vue.js, but I also enjoy building responsive and interactive frontends using HTML, CSS, Bootstrap, and JavaScript. With a strong foundation in MySQL, I’m focused on creating efficient, scalable, and secure web applications.</h3>
+<p> I'm a <strong>PHP & Laravel Developer</strong> and <strong>Full-Stack Software Engineer</strong> passionate about building <strong>scalable, secure, and production-ready web applications</strong>. </p>
+
+<p> I specialize in <strong>PHP, Laravel, MySQL, Vue.js, and Inertia.js</strong>, with a strong focus on backend architecture, RESTful APIs, database design, authentication, authorization, and scalable application development. I also enjoy creating modern, responsive, and interactive user interfaces using <strong>Vue.js, JavaScript, HTML, CSS, and Bootstrap</strong>. </p>
+
+<p> I'm particularly interested in building <strong>SaaS platforms, ERP systems, business management applications, and AI-powered solutions</strong>, combining solid software engineering practices with modern technologies to solve real-world problems. </p>
+
+<h3>🚀 What I Work With</h3>
+
+<ul> <li><strong>Backend:</strong> PHP, Laravel, REST APIs</li> <li><strong>Frontend:</strong> Vue.js, Inertia.js, JavaScript, HTML, CSS, Bootstrap</li> <li><strong>Database:</strong> MySQL</li> <li><strong>AI & Automation:</strong> AI integrations, AI-powered applications, n8n</li> <li><strong>Architecture:</strong> SaaS, Multi-Tenancy, Role & Permission Systems</li> <li><strong>Tools:</strong> Git, GitHub, Linux, VS Code</li> </ul>
+
+<p> I'm continuously learning and improving my skills in <strong>software architecture, AI, cloud technologies, and scalable system design</strong>, while building practical projects that turn real-world requirements into reliable software. </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsakib748&label=Profile%20views&color=0e75b6&style=flat" alt="alsakib748" /> </p>
