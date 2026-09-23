@@ -10,7 +10,7 @@
 
 <h3>🚀 What I Work With</h3>
 
-<ul> <li><strong>Backend:</strong> PHP, Laravel, REST APIs</li> <li><strong>Frontend:</strong> Vue.js, Inertia.js, JavaScript, HTML, CSS, Bootstrap</li> <li><strong>Database:</strong> MySQL</li> <li><strong>AI & Automation:</strong> AI integrations, AI-powered applications, n8n</li> <li><strong>Architecture:</strong> SaaS, Multi-Tenancy, Role & Permission Systems</li> <li><strong>Tools:</strong> Git, GitHub, Linux, VS Code</li> </ul>
+<ul> <li><strong>Backend:</strong> PHP, Laravel, REST APIs</li> <li><strong>Frontend:</strong> Vue.js, Inertia.js, JavaScript, HTML, CSS, Bootstrap</li> <li><strong>Database:</strong> MySQL</li> <li><strong>AI & Automation:</strong> AI integrations, AI-powered applications</li> <li><strong>Architecture:</strong> SaaS, Multi-Tenancy, Role & Permission Systems</li> <li><strong>Tools:</strong> Git, GitHub, Linux, VS Code</li> </ul>
 
 <p> I'm continuously learning and improving my skills in <strong>software architecture, AI, cloud technologies, and scalable system design</strong>, while building practical projects that turn real-world requirements into reliable software. </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" >
